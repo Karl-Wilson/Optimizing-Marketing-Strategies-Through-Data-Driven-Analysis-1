@@ -2,7 +2,7 @@
 Optimizing Marketing Strategies Through Data-Driven Analysis
 
 ## Introduction
-This project explores how marketing campaign data can be used to improve decision-making and return on investment (ROI). By analyzing performance metrics such as conversion rate (CR), cost per lead (CPL), cost per acquisition (CPA), Clickthrough Rate (CTR) and Cost per Click (CPC), the goal is to identify what works, what doesn't, and how to optimize marketing spend across different channels(categories).
+This project explores how marketing campaign data can be used to improve decision-making and return on investment (ROI). Developed as an analytics skills demonstration, this analysis examines performance metrics such as conversion rate (CR), cost per lead (CPL), cost per acquisition (CPA), Clickthrough Rate (CTR) and Cost per Click (CPC), the goal is to identify what works, what doesn't, and how to optimize marketing spend across different channels(categories).
 
 The insights gained help move from guesswork to data-driven marketing strategies, focusing on targeting the right audience and spending smarter — not just more.
 
