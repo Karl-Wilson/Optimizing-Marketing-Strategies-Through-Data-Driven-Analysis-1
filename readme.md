@@ -30,10 +30,10 @@ The dashboard provides a visual summary of campaign performance across different
 
 ## Project Files
 **Jupyter Notebook (Data Analysis)**  
-🔗 View [Notebook](/Project.ipynb)  
+🔗 View [Notebook](/Data%20Analysis.ipynb)  
 
 **Power BI Dashboard**  
-🔗 View [Power BI File](/Project%20%20-%20Marketing%20Data.pbix)
+🔗 View [Power BI File](/Power%20BI%20Dashboard.pbix)
 
 **Business Report (Word Document)**    
 🔗 Download [Report](/Analysis%20Report.docx)
