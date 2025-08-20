@@ -9,8 +9,9 @@ The insights gained help move from guesswork to data-driven marketing strategies
 1. Data Cleaning and Preparation with python 
 2. Exploratory Data Analysis (EDA) with python
 3. Correlation and Performance Analysis with python
-4. KPI Interpretation (ROI, CR, CPL, CPA, CPC, CTR)
-5. Monte Carlo simulation and Linear programing with python
+4. Machine Learning Models (SVR and Decision Tree)
+5. KPI Interpretation (ROI, CR, CPL, CPA, CPC, CTR)
+6. Monte Carlo simulation and Linear programing with python
 5. Strategic Insight Development
 6. Dashboard Creation for Business Presentation
 7. Report Writing and Communication
@@ -18,9 +19,10 @@ The insights gained help move from guesswork to data-driven marketing strategies
 ## Tools Used
 1. Python (Jupyter Notebook) – for data analysis and visualization
 2. Pandas, NumPy, Matplotlib, Scipy – Python libraries for data manipulation and plotting
-4. Pulp - Python library for linear programming
-3. Power BI – for interactive dashboard creation
-4. Microsoft Word – for business report documentation
+3. Pulp - Python library for linear programming
+4. Scikit-Learn - For Machine Learning
+5. Power BI – for interactive dashboard creation
+6. Microsoft Word – for business report documentation
 
 ## About the Dashboard
 The dashboard provides a visual summary of campaign performance across different marketing channels (category). 
