@@ -20,7 +20,7 @@ The insights gained help move from guesswork to data-driven marketing strategies
 1. Python (Jupyter Notebook) – for data analysis and visualization
 2. Pandas, NumPy, Matplotlib, Scipy – Python libraries for data manipulation and plotting
 3. Pulp - Python library for linear programming
-4. Scikit-Learn - For Machine Learning
+4. Scikit-Learn - Python library for Machine Learning
 5. Power BI – for interactive dashboard creation
 6. Microsoft Word – for business report documentation
 
